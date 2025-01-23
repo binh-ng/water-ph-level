@@ -1,4 +1,4 @@
-<h1 align="center"><b>An Investigation into the Quality of Water Bodies of Calgary</b></h1>
+<h1 align="center"><b>An Investigation into the Quality of Water Bodies of Calgary, AB, Canada</b></h1>
 
 ## Table of Contents
 + Project abstract
@@ -12,7 +12,7 @@ The analysis was conducted using **R** and employed libraries such as **ggplot2*
 
 ## Repository Description
 This repository contains:
-+ `water_pH_analysis.Rmd` - R Markdown file detailing the full analysis process, from data cleaning to regression modeling.
++ `water_pH_analysis.Rmd` - R Markdown file detailing the full analysis process, from data cleaning to regression modelling.
 + `water_quality_data.csv` - Dataset containing pH measurements and other water quality parameters from Calgary's water bodies.
 + `visualizations/` - Directory containing plots and graphs illustrating pH trends and relationships.
 + `water_quality_analysis.pdf` - Final report summarizing the study and its findings.
